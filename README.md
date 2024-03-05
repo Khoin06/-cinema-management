@@ -1,10 +1,10 @@
 # -cinema-management
-*Đối tượng sử dụng: Nhân viên rạp chiếu phim
+*Đối tượng sử dụng: Nhân viên rạp chiếu phim🔥
 *Các yêu cầu cơ bản:  
       -Quản lý về phim, lịch chiếu, phòng chiếu 
-           + Thêm/xóa/cập nhật thông tin về phim 
-           + Sắp xếp phim theo thể loại hoặc thứ tự bảng chữ cái 
-           + Tìm kiếm phim theo một số thông tin cho sẵn 
+           +Thêm/xóa/cập nhật thông tin về phim 
+           +Sắp xếp phim theo thể loại hoặc thứ tự bảng chữ cái 
+           +Tìm kiếm phim theo một số thông tin cho sẵn 
            +Thêm/xóa/cập nhật lịch chiếu của phim 
            +Tìm kiếm lịch chiếu theo yêu cầu về thời gian 
            +Kiểm tra trạng thái ghế ngồi của phòng chiếu 
@@ -42,6 +42,7 @@
             Y2.4: Quản lý về vé:
                    +Khi khách hàng đến đặt vé, nhân viên hỏi khách hàng về các thông tin như: Tên phim, thời gian chiếu, phòng chiếu, ghế ngồi,… Dựa trên các thông tin này nhân viên in vé phù hợp cho khách hàng. 
                    +Cuối mỗi tháng nhân viên có thể thống kê tổng số lượng vé đã bán ra của tháng đó để tính doanh thu của rạp chiếu phim mỗi tháng. 
+                   
 *Các câu truy vấn sẽ thực hiện:
        1.Trích xuất/cập nhật/sắp xếp thông tin 
           + Hiển thị thông tin của phim 
