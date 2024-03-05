@@ -1,4 +1,4 @@
-# -cinema-management
+# cinema_management
 ## Đối tượng sử dụng: Nhân viên rạp chiếu phim🔥
 ## Các yêu cầu cơ bản:  
       
